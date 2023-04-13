@@ -4,3 +4,12 @@ A brief description of fundamentals of programming in Java, including syntax, da
 
 
 ![Logo](https://p92.com/binaries/content/gallery/p92website/jobs/java_banner.png)
+
+
+
+
+## Content : 
+**Class Codes and Assignments :**
+
+     1.DataTyes :
+            a.Class Codes
