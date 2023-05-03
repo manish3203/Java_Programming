@@ -31,16 +31,16 @@ A brief description of fundamentals of programming in Java, including syntax, da
             a.While loop :
                   i.Class Codes
                   ii.Assignments
-                  iii.Practice Codes
+    
             b.For Loop :
                   i.Class Codes
                   ii.Assignments
-                  iii.Practice Codes
+         
                   
       6.Input/Output :  
       
       7.Array : 
             a. Class Code
             b. Assignments
-            c. Practice Codes
+          
  
