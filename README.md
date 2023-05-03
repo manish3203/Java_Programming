@@ -42,5 +42,14 @@ A brief description of fundamentals of programming in Java, including syntax, da
       7.Array : 
             a. Class Code
             b. Assignments
+            
+   
+## Tools :
+
+1.IntelliJ IDEA Community Edition
+
+2.Vim Text Editor
+
+3.OpenJDK JDK 19.0.2 / 8
           
  
