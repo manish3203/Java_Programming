@@ -42,6 +42,17 @@ A brief description of fundamentals of programming in Java, including syntax, da
       7.Array : 
             a. Class Code
             b. Assignments
+      8.Methods :
+            a. Class Code
+            b. Assignments
+       
+       9.String :
+            a. Class Code
+            b. Assignments
+            
+       10.Class and Object :
+            a. Class Code
+            b. Assignment
             
    
 ## Tools :
